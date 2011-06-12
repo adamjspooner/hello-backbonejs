@@ -1,8 +1,5 @@
-# Hello Backbone - A tutorial
+The CoffeeScript variation of this tutorial can be found at http://adamjspooner.github.com/coffeescript-meet-backbonejs/.
 
-**Hello Backbone** is a simple [Backbone.js](http://documentcloud.github.com/backbone) tutorial comprised of self-explanatory "hello world" examples of increasing complexity. It was designed to provide a smoother transition from zero to the popular [Todos example](http://documentcloud.github.com/backbone/docs/todos.html).
+The original JavaScript version can be found at http://arturadib.github.com/hello-backbonejs/.
 
-See it in action:  
-http://arturadib.github.com/hello-backbonejs/
-
-_Contributions are welcome!_
+This fork will no longer be maintained. See http://adamjspooner.github.com/coffeescript-meet-backbonejs/ for all future revisions.
